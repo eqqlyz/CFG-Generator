@@ -8,5 +8,6 @@ Also the program can output the following:
 3. File Format for snap software [http://snap.stanford.edu/index.html] to analysis the CFG
 
 TO BE DONE:
+
 1. Structure anslysis of the CFG
 2. Graph Isomorphism detection between two CFGs
