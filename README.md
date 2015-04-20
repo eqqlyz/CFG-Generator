@@ -11,4 +11,4 @@ TO BE DONE:
 
 1. Structure anslysis of the CFG
 2. Graph Isomorphism detection between two CFGs
-3. Topological Embedding of Graphs  [<Directed graph pattern matching and topological embedding>]
+3. Topological Embedding of Graphs  [Directed graph pattern matching and topological embedding]
